@@ -767,7 +767,7 @@ function loadGame(gameId) {
     document.querySelectorAll(".screenshots").forEach((el)=>el.addEventListener("click", (0, _bs5LightboxDefault.default).initialize));
 }
 
-},{"bs5-lightbox":"gEcHY","bootstrap":"h36JB","./content/games.json":"lpCqv","./content/*/*.png":"eCYk2","url:./content/*/screenshots/*.png":"ek25y","url:./content/*.png":"1hYVV","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"gEcHY":[function(require,module,exports) {
+},{"bs5-lightbox":"gEcHY","bootstrap":"h36JB","./content/games.json":"lpCqv","./content/*/*.png":"fVCmV","url:./content/*/screenshots/*.png":"5He55","url:./content/*.png":"1hYVV","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"gEcHY":[function(require,module,exports) {
 /**
  * Lightbox for Bootstrap 5
  *
@@ -6730,20 +6730,25 @@ var createPopper = /*#__PURE__*/ (0, _createPopperJs.popperGenerator)({
 }); // eslint-disable-next-line import/no-unused-modules
 
 },{"./createPopper.js":"cHuNp","./modifiers/eventListeners.js":"hBKsL","./modifiers/popperOffsets.js":"6I679","./modifiers/computeStyles.js":"gDlm2","./modifiers/applyStyles.js":"4iMn4","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"lpCqv":[function(require,module,exports) {
-module.exports = JSON.parse('{"fluffy-out":{"id":"fluffy-out","name":"Fluffy Out","logo":"./content/fluffy-out/logo.png","header":"./content/fluffy-out/logo.png","description":"In this delightful and visually appealing game, players enter a world where the primary objective is to save adorable, fluffy creatures from various challenging scenarios. Each level is uniquely designed with vibrant graphics and creative obstacles that will captivate your attention and test your problem-solving skills.","links":{"poki":"https://poki.com/en/g/fluffy-out","playmarket":"https://play.google.com/store/apps/details?id=com.sealunicorngames.fluffyout","itch":"","youtube":"https://www.youtube.com/watch?v=imasb3ZuK5U"}},"misland":{"id":"misland","name":"Misland","logo":"./content/misland/logo.png","header":"./content/misland/logo.png","description":"Adventure crafting and building game with idle elements. Turn deserted island to thriving village!","links":{"poki":"https://poki.com/en/g/misland","playmarket":"https://play.google.com/store/apps/details?id=com.sealunicorngames.misland","itch":"","youtube":"https://www.youtube.com/watch?v=uVJRbjktV1Q"}},"dual-cat":{"id":"dual-cat","name":"Dual Cat","logo":"./content/dual-cat/thumbnail_dual_cat.png","header":"./content/dual-cat/dual-cat-carousel.png","description":"The puzzle-platformer game where you help Erwin to save Max from the laboratory. Use your mind and agility.","links":{"poki":"https://poki.com/en/g/dual-cat","playmarket":"https://play.google.com/store/apps/details?id=com.sealunicorngames.dualcat","itch":"https://seal-unicorn.itch.io/dual-cat-poki","youtube":"https://www.youtube.com/watch?v=3Poy22kfuPs&ab_channel=SealUnicornGames"}},"rusher-crusher":{"id":"rusher-crusher","name":"Rusher Crusher","logo":"./content/rusher-crusher/thumbnail_rusher_crusher.png","header":"./content/rusher-crusher/rusher-crusher-carousel.png","description":"The defense you thirty from an awful pixelate monster! Shoot, earn, mine, upgrade!","links":{"poki":"https://poki.com/en/g/rusher-crusher","playmarket":"https://play.google.com/store/apps/details?id=com.sealunicorngames.rushercrusher&pli=1","itch":"","youtube":"https://www.youtube.com/watch?v=Su1G-A2Ist4&ab_channel=SealUnicornGames"}},"click-for-life":{"id":"click-for-life","name":"Click For Life","logo":"./content/click-for-life/LogoWithTap.png","header":"./content/click-for-life/dual-cat-carousel.png","description":"Welcome to Click For Life - the brand new idle clicker game. In this idle simulation game, you fill the world with different creatures and observe how they interact with the environment.\\n Like in the real world every animal needs food. So, beware don\'t allow them to suffer from starving.\\nKey features\\nOffline progress\\nNo need to be in the game all time. You can close game and take earned genes when you cameback.\\nUpgrade\\nYour animal can evolve with you help. Improve their stats - make world better\\nCreate Life\\nBuild your own world where creatures and plants live in balance.\\nEarn genes\\nMore creature - more genes. More genes - more creature.\\nKeep balance\\nOne animal eats another one. Ensure that none extinct without food\\nClick Click Click\\nClick for getting even more genes\\n\\nEnjoy the new addictive idle life simulator game!","links":{"poki":"","playmarket":"https://play.google.com/store/apps/details?id=com.SealUnicorn.ClickForLife","itch":"https://seal-unicorn.itch.io/click-for-living-ludum-dare-49","youtube":""}}}');
+module.exports = JSON.parse('{"hexellent":{"id":"hexellent","name":"Hexellent","logo":"./content/hexellent/logo.png","header":"./content/hexellent/logo.png","description":"Hexellent is an innovative hexa puzzle game offline \uD83D\uDD12 that marries classic sort games with vivid color sorting games and hexa master 3d magic. Slide and stack vibrant hexagon puzzle games tiles, enjoying the mechanics of sliding puzzle games and rearrange strategies, featuring thrilling hexa sort mechanics.","links":{"poki":"https://poki.com/en/g/hexellent","playmarket":"https://play.google.com/store/apps/details?id=com.sealunicorngames.hexellent","itch":"","youtube":""}},"dual-cat-max":{"id":"dual-cat-max","name":"Dual Cat: Max","logo":"./content/dual-cat-max/logo.png","header":"./content/dual-cat-max/logo.png","description":"Dual Cat: Max is a story about a heroic cat named Max. Max\'s best friend Erwin has been kidnapped and needs your help to save him. Dive into a whimsical world where robots believe cats can help bring humans back.","links":{"poki":"https://poki.com/en/g/dual-cat-max","playmarket":"","itch":"","youtube":"https://www.youtube.com/watch?v=ebWQLPnaKW0"}},"fluffy-out":{"id":"fluffy-out","name":"Fluffy Out","logo":"./content/fluffy-out/logo.png","header":"./content/fluffy-out/logo.png","description":"In this delightful and visually appealing game, players enter a world where the primary objective is to save adorable, fluffy creatures from various challenging scenarios. Each level is uniquely designed with vibrant graphics and creative obstacles that will captivate your attention and test your problem-solving skills.","links":{"poki":"https://poki.com/en/g/fluffy-out","playmarket":"https://play.google.com/store/apps/details?id=com.sealunicorngames.fluffyout","itch":"","youtube":"https://www.youtube.com/watch?v=imasb3ZuK5U"}},"misland":{"id":"misland","name":"Misland","logo":"./content/misland/logo.png","header":"./content/misland/logo.png","description":"Adventure crafting and building game with idle elements. Turn deserted island to thriving village!","links":{"poki":"https://poki.com/en/g/misland","playmarket":"https://play.google.com/store/apps/details?id=com.sealunicorngames.misland","itch":"","youtube":"https://www.youtube.com/watch?v=uVJRbjktV1Q"}},"dual-cat":{"id":"dual-cat","name":"Dual Cat","logo":"./content/dual-cat/thumbnail_dual_cat.png","header":"./content/dual-cat/dual-cat-carousel.png","description":"The puzzle-platformer game where you help Erwin to save Max from the laboratory. Use your mind and agility.","links":{"poki":"https://poki.com/en/g/dual-cat","playmarket":"https://play.google.com/store/apps/details?id=com.sealunicorngames.dualcat","itch":"https://seal-unicorn.itch.io/dual-cat-poki","youtube":"https://www.youtube.com/watch?v=3Poy22kfuPs&ab_channel=SealUnicornGames"}},"rusher-crusher":{"id":"rusher-crusher","name":"Rusher Crusher","logo":"./content/rusher-crusher/thumbnail_rusher_crusher.png","header":"./content/rusher-crusher/rusher-crusher-carousel.png","description":"The defense you thirty from an awful pixelate monster! Shoot, earn, mine, upgrade!","links":{"poki":"https://poki.com/en/g/rusher-crusher","playmarket":"https://play.google.com/store/apps/details?id=com.sealunicorngames.rushercrusher&pli=1","itch":"","youtube":"https://www.youtube.com/watch?v=Su1G-A2Ist4&ab_channel=SealUnicornGames"}},"click-for-life":{"id":"click-for-life","name":"Click For Life","logo":"./content/click-for-life/LogoWithTap.png","header":"./content/click-for-life/dual-cat-carousel.png","description":"Welcome to Click For Life - the brand new idle clicker game. In this idle simulation game, you fill the world with different creatures and observe how they interact with the environment.\\n Like in the real world every animal needs food. So, beware don\'t allow them to suffer from starving.\\nKey features\\nOffline progress\\nNo need to be in the game all time. You can close game and take earned genes when you cameback.\\nUpgrade\\nYour animal can evolve with you help. Improve their stats - make world better\\nCreate Life\\nBuild your own world where creatures and plants live in balance.\\nEarn genes\\nMore creature - more genes. More genes - more creature.\\nKeep balance\\nOne animal eats another one. Ensure that none extinct without food\\nClick Click Click\\nClick for getting even more genes\\n\\nEnjoy the new addictive idle life simulator game!","links":{"poki":"","playmarket":"https://play.google.com/store/apps/details?id=com.SealUnicorn.ClickForLife","itch":"https://seal-unicorn.itch.io/click-for-living-ludum-dare-49","youtube":""}}}');
 
-},{}],"eCYk2":[function(require,module,exports) {
+},{}],"fVCmV":[function(require,module,exports) {
 const _temp0 = require("ec5ed3016e6229c9");
 const _temp1 = require("497126cc6e159d0e");
 const _temp2 = require("ea10b74fef660b6");
 const _temp3 = require("93c65d2ad30e6595");
 const _temp4 = require("99e0b0b6ed78f474");
-const _temp5 = require("20a13c0866227128");
-const _temp6 = require("189a1d7107927a1b");
-const _temp7 = require("2842c81fa08965ac");
-const _temp8 = require("50d485745ff15944");
-const _temp9 = require("93c8e2dc3a4f6fee");
-const _temp10 = require("c29887fe002e9cad");
+const _temp5 = require("a491b663819e9a40");
+const _temp6 = require("83d2b8fa790552f9");
+const _temp7 = require("d3437d01d82179be");
+const _temp8 = require("20a13c0866227128");
+const _temp9 = require("189a1d7107927a1b");
+const _temp10 = require("aa269a1df8ba13e6");
+const _temp11 = require("5ca536d0279f0afe");
+const _temp12 = require("2842c81fa08965ac");
+const _temp13 = require("50d485745ff15944");
+const _temp14 = require("93c8e2dc3a4f6fee");
+const _temp15 = require("c29887fe002e9cad");
 module.exports = {
     "click-for-life": {
         "logo": _temp0,
@@ -6754,21 +6759,30 @@ module.exports = {
         "logo": _temp3,
         "youtube_thumbnail": _temp4
     },
+    "dual-cat-max": {
+        "dual-cat--max-carousel": _temp5,
+        "logo": _temp6,
+        "youtube_thumbnail": _temp7
+    },
     "fluffy-out": {
-        "logo": _temp5,
-        "youtube_thumbnail": _temp6
+        "logo": _temp8,
+        "youtube_thumbnail": _temp9
+    },
+    "hexellent": {
+        "hexellent-carousel": _temp10,
+        "logo": _temp11
     },
     "misland": {
-        "logo": _temp7,
-        "youtube_thumbnail": _temp8
+        "logo": _temp12,
+        "youtube_thumbnail": _temp13
     },
     "rusher-crusher": {
-        "logo": _temp9,
-        "youtube_thumbnail": _temp10
+        "logo": _temp14,
+        "youtube_thumbnail": _temp15
     }
 };
 
-},{"ec5ed3016e6229c9":"lb51f","497126cc6e159d0e":"204aw","ea10b74fef660b6":"1F1Lf","93c65d2ad30e6595":"3JvyS","99e0b0b6ed78f474":"NXXPU","20a13c0866227128":"jC5mn","189a1d7107927a1b":"bfN10","2842c81fa08965ac":"gCJ4Z","50d485745ff15944":"EpR1c","93c8e2dc3a4f6fee":"j8iFe","c29887fe002e9cad":"fQM1G"}],"lb51f":[function(require,module,exports) {
+},{"ec5ed3016e6229c9":"lb51f","497126cc6e159d0e":"204aw","ea10b74fef660b6":"1F1Lf","93c65d2ad30e6595":"3JvyS","99e0b0b6ed78f474":"NXXPU","a491b663819e9a40":"dYkXH","83d2b8fa790552f9":"3MG4w","d3437d01d82179be":"1l0fb","20a13c0866227128":"jC5mn","189a1d7107927a1b":"bfN10","aa269a1df8ba13e6":"4vYrd","5ca536d0279f0afe":"7oM3c","2842c81fa08965ac":"gCJ4Z","50d485745ff15944":"EpR1c","93c8e2dc3a4f6fee":"j8iFe","c29887fe002e9cad":"fQM1G"}],"lb51f":[function(require,module,exports) {
 module.exports = require("846a5ba21618dea9").getBundleURL("UckoE") + "logo.742e28ea.png" + "?" + Date.now();
 
 },{"846a5ba21618dea9":"lgJ39"}],"lgJ39":[function(require,module,exports) {
@@ -6817,13 +6831,28 @@ module.exports = require("85f06058d5adda53").getBundleURL("UckoE") + "logo.ed571
 },{"85f06058d5adda53":"lgJ39"}],"NXXPU":[function(require,module,exports) {
 module.exports = require("4bb3cee6665cf03e").getBundleURL("UckoE") + "youtube_thumbnail.38264f7e.png" + "?" + Date.now();
 
-},{"4bb3cee6665cf03e":"lgJ39"}],"jC5mn":[function(require,module,exports) {
+},{"4bb3cee6665cf03e":"lgJ39"}],"dYkXH":[function(require,module,exports) {
+module.exports = require("2898032dc06e9203").getBundleURL("UckoE") + "dual-cat--max-carousel.83a35a28.png" + "?" + Date.now();
+
+},{"2898032dc06e9203":"lgJ39"}],"3MG4w":[function(require,module,exports) {
+module.exports = require("d3d048b8c59d9ad3").getBundleURL("UckoE") + "logo.520bdac6.png" + "?" + Date.now();
+
+},{"d3d048b8c59d9ad3":"lgJ39"}],"1l0fb":[function(require,module,exports) {
+module.exports = require("fe1a59b14ce05663").getBundleURL("UckoE") + "youtube_thumbnail.353de544.png" + "?" + Date.now();
+
+},{"fe1a59b14ce05663":"lgJ39"}],"jC5mn":[function(require,module,exports) {
 module.exports = require("bfbb16a3d2a70323").getBundleURL("UckoE") + "logo.81373831.png" + "?" + Date.now();
 
 },{"bfbb16a3d2a70323":"lgJ39"}],"bfN10":[function(require,module,exports) {
 module.exports = require("cdf2215463d53c06").getBundleURL("UckoE") + "youtube_thumbnail.54a81a41.png" + "?" + Date.now();
 
-},{"cdf2215463d53c06":"lgJ39"}],"gCJ4Z":[function(require,module,exports) {
+},{"cdf2215463d53c06":"lgJ39"}],"4vYrd":[function(require,module,exports) {
+module.exports = require("4d676a9592bc1e2c").getBundleURL("UckoE") + "hexellent-carousel.268605d1.png" + "?" + Date.now();
+
+},{"4d676a9592bc1e2c":"lgJ39"}],"7oM3c":[function(require,module,exports) {
+module.exports = require("472b8e75736f0f37").getBundleURL("UckoE") + "logo.0e2c691a.png" + "?" + Date.now();
+
+},{"472b8e75736f0f37":"lgJ39"}],"gCJ4Z":[function(require,module,exports) {
 module.exports = require("d2e46c36feaf5aec").getBundleURL("UckoE") + "logo.2121aca6.png" + "?" + Date.now();
 
 },{"d2e46c36feaf5aec":"lgJ39"}],"EpR1c":[function(require,module,exports) {
@@ -6835,64 +6864,105 @@ module.exports = require("73c6eae9a6cfb7ba").getBundleURL("UckoE") + "logo.34f4d
 },{"73c6eae9a6cfb7ba":"lgJ39"}],"fQM1G":[function(require,module,exports) {
 module.exports = require("aef32ed6845c348b").getBundleURL("UckoE") + "youtube_thumbnail.378cc6a9.png" + "?" + Date.now();
 
-},{"aef32ed6845c348b":"lgJ39"}],"ek25y":[function(require,module,exports) {
+},{"aef32ed6845c348b":"lgJ39"}],"5He55":[function(require,module,exports) {
 const _temp0 = require("1e060735ff911cfa");
-const _temp1 = require("202bb4dd6dfa4f58");
-const _temp2 = require("520440bb8cecf576");
-const _temp3 = require("2768735203205def");
-const _temp4 = require("5618840090cee0d4");
-const _temp5 = require("133dd5901e08b03e");
-const _temp6 = require("faf1c1f4c02e3e97");
-const _temp7 = require("2b44a0ec2b0af2ff");
-const _temp8 = require("542ac2b533c30584");
-const _temp9 = require("ef016105c59e4669");
-const _temp10 = require("92d6e5c86f2cbb54");
-const _temp11 = require("864f5e2df71fade1");
-const _temp12 = require("8a4b3a3d5d61eb25");
-const _temp13 = require("5b49be18a2079f9d");
-const _temp14 = require("cecaffce216f4e64");
-const _temp15 = require("304a147723f18c40");
-const _temp16 = require("35d6267d0b2be2d1");
-const _temp17 = require("ff346610794f502d");
-const _temp18 = require("1a2413d323b0b499");
-const _temp19 = require("e77fa9a5f7973b97");
+const _temp1 = require("2533f8ff40339783");
+const _temp2 = require("4bd06b0c5a1ccbf9");
+const _temp3 = require("13bb03510915f1");
+const _temp4 = require("9fc4cdaa7be13481");
+const _temp5 = require("bb1ab674afdfeafe");
+const _temp6 = require("202bb4dd6dfa4f58");
+const _temp7 = require("520440bb8cecf576");
+const _temp8 = require("2768735203205def");
+const _temp9 = require("92d6e5c86f2cbb54");
+const _temp10 = require("864f5e2df71fade1");
+const _temp11 = require("8a4b3a3d5d61eb25");
+const _temp12 = require("5b49be18a2079f9d");
+const _temp13 = require("cecaffce216f4e64");
+const _temp14 = require("304a147723f18c40");
+const _temp15 = require("35d6267d0b2be2d1");
+const _temp16 = require("6533ec129a8b972d");
+const _temp17 = require("9ac6d2094b92d9f9");
+const _temp18 = require("93cf1afc6385936f");
+const _temp19 = require("3ccb96f6ea57ad7d");
+const _temp20 = require("f5a136c98a0923c5");
+const _temp21 = require("abcc1bd084dba4df");
+const _temp22 = require("5618840090cee0d4");
+const _temp23 = require("133dd5901e08b03e");
+const _temp24 = require("faf1c1f4c02e3e97");
+const _temp25 = require("2b44a0ec2b0af2ff");
+const _temp26 = require("542ac2b533c30584");
+const _temp27 = require("ef016105c59e4669");
+const _temp28 = require("ff346610794f502d");
+const _temp29 = require("1a2413d323b0b499");
+const _temp30 = require("e77fa9a5f7973b97");
 module.exports = {
     "click-for-life": {
         "Screenshot": _temp0
     },
-    "dual-cat": {
+    "dual-cat-max": {
         "e_SS1": _temp1,
-        "e_SS3": _temp2,
-        "e_SS7": _temp3
+        "e_SS2": _temp2,
+        "e_SS3": _temp3,
+        "e_SS4": _temp4,
+        "e_SS5": _temp5
     },
-    "fluffy-out": {
-        "1": _temp4,
-        "2": _temp5,
-        "3": _temp6,
-        "4": _temp7,
-        "5": _temp8,
-        "6": _temp9
+    "dual-cat": {
+        "e_SS1": _temp6,
+        "e_SS3": _temp7,
+        "e_SS7": _temp8
     },
     "misland": {
-        "tab1": _temp10,
-        "tab2": _temp11,
-        "tab3": _temp12,
-        "tab4": _temp13,
-        "tab5": _temp14,
-        "tab6": _temp15,
-        "tab7": _temp16
+        "tab1": _temp9,
+        "tab2": _temp10,
+        "tab3": _temp11,
+        "tab4": _temp12,
+        "tab5": _temp13,
+        "tab6": _temp14,
+        "tab7": _temp15
+    },
+    "hexellent": {
+        "screenshots_hexellent_1": _temp16,
+        "screenshots_hexellent_2": _temp17,
+        "screenshots_hexellent_3": _temp18,
+        "screenshots_hexellent_4": _temp19,
+        "screenshots_hexellent_5": _temp20,
+        "screenshots_hexellent_6": _temp21
+    },
+    "fluffy-out": {
+        "1": _temp22,
+        "2": _temp23,
+        "3": _temp24,
+        "4": _temp25,
+        "5": _temp26,
+        "6": _temp27
     },
     "rusher-crusher": {
-        "SS_donut": _temp17,
-        "SS_menu": _temp18,
-        "SS_tomato": _temp19
+        "SS_donut": _temp28,
+        "SS_menu": _temp29,
+        "SS_tomato": _temp30
     }
 };
 
-},{"1e060735ff911cfa":"cV8NG","202bb4dd6dfa4f58":"8VC6u","520440bb8cecf576":"9UBca","2768735203205def":"9usG6","5618840090cee0d4":"144PF","133dd5901e08b03e":"2hh8C","faf1c1f4c02e3e97":"eMUPu","2b44a0ec2b0af2ff":"1ERBo","542ac2b533c30584":"5EfVS","ef016105c59e4669":"5WyEb","92d6e5c86f2cbb54":"WLs29","864f5e2df71fade1":"cj1bF","8a4b3a3d5d61eb25":"1Cfv4","5b49be18a2079f9d":"hKcI6","cecaffce216f4e64":"axsBK","304a147723f18c40":"fNJnE","35d6267d0b2be2d1":"9oBMz","ff346610794f502d":"2aX9W","1a2413d323b0b499":"jUYnF","e77fa9a5f7973b97":"eLiX0"}],"cV8NG":[function(require,module,exports) {
+},{"1e060735ff911cfa":"cV8NG","2533f8ff40339783":"cPI3i","4bd06b0c5a1ccbf9":"9n7eZ","13bb03510915f1":"5fysK","9fc4cdaa7be13481":"i54jM","bb1ab674afdfeafe":"kF274","202bb4dd6dfa4f58":"8VC6u","520440bb8cecf576":"9UBca","2768735203205def":"9usG6","92d6e5c86f2cbb54":"WLs29","864f5e2df71fade1":"cj1bF","8a4b3a3d5d61eb25":"1Cfv4","5b49be18a2079f9d":"hKcI6","cecaffce216f4e64":"axsBK","304a147723f18c40":"fNJnE","35d6267d0b2be2d1":"9oBMz","6533ec129a8b972d":"hWNxA","9ac6d2094b92d9f9":"bb78h","93cf1afc6385936f":"lhEoQ","3ccb96f6ea57ad7d":"4N8Ng","f5a136c98a0923c5":"k6tWK","abcc1bd084dba4df":"cXvab","5618840090cee0d4":"144PF","133dd5901e08b03e":"2hh8C","faf1c1f4c02e3e97":"eMUPu","2b44a0ec2b0af2ff":"1ERBo","542ac2b533c30584":"5EfVS","ef016105c59e4669":"5WyEb","ff346610794f502d":"2aX9W","1a2413d323b0b499":"jUYnF","e77fa9a5f7973b97":"eLiX0"}],"cV8NG":[function(require,module,exports) {
 module.exports = require("b484001b98e771ae").getBundleURL("UckoE") + "Screenshot.b608084c.png" + "?" + Date.now();
 
-},{"b484001b98e771ae":"lgJ39"}],"8VC6u":[function(require,module,exports) {
+},{"b484001b98e771ae":"lgJ39"}],"cPI3i":[function(require,module,exports) {
+module.exports = require("ef00fc4781079a63").getBundleURL("UckoE") + "e_SS1.9c3a4d56.png" + "?" + Date.now();
+
+},{"ef00fc4781079a63":"lgJ39"}],"9n7eZ":[function(require,module,exports) {
+module.exports = require("95d66efd762ebd79").getBundleURL("UckoE") + "e_SS2.37f3f55a.png" + "?" + Date.now();
+
+},{"95d66efd762ebd79":"lgJ39"}],"5fysK":[function(require,module,exports) {
+module.exports = require("886ba87e0b234ac1").getBundleURL("UckoE") + "e_SS3.4cd37fb4.png" + "?" + Date.now();
+
+},{"886ba87e0b234ac1":"lgJ39"}],"i54jM":[function(require,module,exports) {
+module.exports = require("8cb17502aed38851").getBundleURL("UckoE") + "e_SS4.c6743972.png" + "?" + Date.now();
+
+},{"8cb17502aed38851":"lgJ39"}],"kF274":[function(require,module,exports) {
+module.exports = require("dc3221613a8fa3dd").getBundleURL("UckoE") + "e_SS5.129ed547.png" + "?" + Date.now();
+
+},{"dc3221613a8fa3dd":"lgJ39"}],"8VC6u":[function(require,module,exports) {
 module.exports = require("14078d86da06ecc0").getBundleURL("UckoE") + "e_SS1.d5be27b1.png" + "?" + Date.now();
 
 },{"14078d86da06ecc0":"lgJ39"}],"9UBca":[function(require,module,exports) {
@@ -6901,25 +6971,7 @@ module.exports = require("c2dbb14ff362f9bf").getBundleURL("UckoE") + "e_SS3.f4d2
 },{"c2dbb14ff362f9bf":"lgJ39"}],"9usG6":[function(require,module,exports) {
 module.exports = require("c65f6c20663a26e0").getBundleURL("UckoE") + "e_SS7.a16808d5.png" + "?" + Date.now();
 
-},{"c65f6c20663a26e0":"lgJ39"}],"144PF":[function(require,module,exports) {
-module.exports = require("32d9e5d58d81b92d").getBundleURL("UckoE") + "1.44700cea.png" + "?" + Date.now();
-
-},{"32d9e5d58d81b92d":"lgJ39"}],"2hh8C":[function(require,module,exports) {
-module.exports = require("2e32bd15713b4316").getBundleURL("UckoE") + "2.dcb7fd2b.png" + "?" + Date.now();
-
-},{"2e32bd15713b4316":"lgJ39"}],"eMUPu":[function(require,module,exports) {
-module.exports = require("601083d10043c8f").getBundleURL("UckoE") + "3.68057f32.png" + "?" + Date.now();
-
-},{"601083d10043c8f":"lgJ39"}],"1ERBo":[function(require,module,exports) {
-module.exports = require("6c2852647ecf2442").getBundleURL("UckoE") + "4.15c842b0.png" + "?" + Date.now();
-
-},{"6c2852647ecf2442":"lgJ39"}],"5EfVS":[function(require,module,exports) {
-module.exports = require("f83347680d6b6163").getBundleURL("UckoE") + "5.61e26234.png" + "?" + Date.now();
-
-},{"f83347680d6b6163":"lgJ39"}],"5WyEb":[function(require,module,exports) {
-module.exports = require("49c012604f6ce89c").getBundleURL("UckoE") + "6.ca8fb01c.png" + "?" + Date.now();
-
-},{"49c012604f6ce89c":"lgJ39"}],"WLs29":[function(require,module,exports) {
+},{"c65f6c20663a26e0":"lgJ39"}],"WLs29":[function(require,module,exports) {
 module.exports = require("9f8d900b85f19985").getBundleURL("UckoE") + "tab1.24dcff3f.png" + "?" + Date.now();
 
 },{"9f8d900b85f19985":"lgJ39"}],"cj1bF":[function(require,module,exports) {
@@ -6940,7 +6992,43 @@ module.exports = require("df3468c38c323c5f").getBundleURL("UckoE") + "tab6.10249
 },{"df3468c38c323c5f":"lgJ39"}],"9oBMz":[function(require,module,exports) {
 module.exports = require("ea16f245ecb8522b").getBundleURL("UckoE") + "tab7.00fc4a84.png" + "?" + Date.now();
 
-},{"ea16f245ecb8522b":"lgJ39"}],"2aX9W":[function(require,module,exports) {
+},{"ea16f245ecb8522b":"lgJ39"}],"hWNxA":[function(require,module,exports) {
+module.exports = require("8662c605e9aa0f64").getBundleURL("UckoE") + "screenshots_hexellent_1.29c77ccb.png" + "?" + Date.now();
+
+},{"8662c605e9aa0f64":"lgJ39"}],"bb78h":[function(require,module,exports) {
+module.exports = require("62bd6e3d02cc5c03").getBundleURL("UckoE") + "screenshots_hexellent_2.616ddb99.png" + "?" + Date.now();
+
+},{"62bd6e3d02cc5c03":"lgJ39"}],"lhEoQ":[function(require,module,exports) {
+module.exports = require("65aca49ad24f45f5").getBundleURL("UckoE") + "screenshots_hexellent_3.91586295.png" + "?" + Date.now();
+
+},{"65aca49ad24f45f5":"lgJ39"}],"4N8Ng":[function(require,module,exports) {
+module.exports = require("e45da14b67883fe1").getBundleURL("UckoE") + "screenshots_hexellent_4.0bd79fe0.png" + "?" + Date.now();
+
+},{"e45da14b67883fe1":"lgJ39"}],"k6tWK":[function(require,module,exports) {
+module.exports = require("b7b8ab43c3dce336").getBundleURL("UckoE") + "screenshots_hexellent_5.5acc6865.png" + "?" + Date.now();
+
+},{"b7b8ab43c3dce336":"lgJ39"}],"cXvab":[function(require,module,exports) {
+module.exports = require("da53c55e3cde2011").getBundleURL("UckoE") + "screenshots_hexellent_6.bd841648.png" + "?" + Date.now();
+
+},{"da53c55e3cde2011":"lgJ39"}],"144PF":[function(require,module,exports) {
+module.exports = require("32d9e5d58d81b92d").getBundleURL("UckoE") + "1.44700cea.png" + "?" + Date.now();
+
+},{"32d9e5d58d81b92d":"lgJ39"}],"2hh8C":[function(require,module,exports) {
+module.exports = require("2e32bd15713b4316").getBundleURL("UckoE") + "2.dcb7fd2b.png" + "?" + Date.now();
+
+},{"2e32bd15713b4316":"lgJ39"}],"eMUPu":[function(require,module,exports) {
+module.exports = require("601083d10043c8f").getBundleURL("UckoE") + "3.68057f32.png" + "?" + Date.now();
+
+},{"601083d10043c8f":"lgJ39"}],"1ERBo":[function(require,module,exports) {
+module.exports = require("6c2852647ecf2442").getBundleURL("UckoE") + "4.15c842b0.png" + "?" + Date.now();
+
+},{"6c2852647ecf2442":"lgJ39"}],"5EfVS":[function(require,module,exports) {
+module.exports = require("f83347680d6b6163").getBundleURL("UckoE") + "5.61e26234.png" + "?" + Date.now();
+
+},{"f83347680d6b6163":"lgJ39"}],"5WyEb":[function(require,module,exports) {
+module.exports = require("49c012604f6ce89c").getBundleURL("UckoE") + "6.ca8fb01c.png" + "?" + Date.now();
+
+},{"49c012604f6ce89c":"lgJ39"}],"2aX9W":[function(require,module,exports) {
 module.exports = require("2333bd3a5f3bcec5").getBundleURL("UckoE") + "SS_donut.20af8fef.png" + "?" + Date.now();
 
 },{"2333bd3a5f3bcec5":"lgJ39"}],"jUYnF":[function(require,module,exports) {
