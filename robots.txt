@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sealunicorn.com/sitemap.xml
