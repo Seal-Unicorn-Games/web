@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /sellers.json
 Sitemap: https://sealunicorn.com/sitemap.xml
